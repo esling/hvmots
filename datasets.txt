@@ -1,0 +1,5 @@
+Directory	/Users/esling/Research/Coding/HV-MOTS-Univariate/datasets_Raw
+Gun_Point	TRAIN	Gun_Point/Gun_Point_TRAIN	Gun_Point/Gun_Point_TEST
+Beef	TRAIN	Beef/Beef_TRAIN	Beef/Beef_TEST
+Adiac	TRAIN	Adiac/Adiac_TRAIN	Adiac/Adiac_TEST
+50Words	TRAIN	50Words/50Words_TRAIN	50Words/50Words_TEST

@@ -1,0 +1,3 @@
+Directory	datasets
+NonInv_ECG1	TRAIN	NonInv_ECG1/NonInv_ECG1_TRAIN	NonInv_ECG1/NonInv_ECG1_TEST
+NonInv_ECG1	TRAIN	NonInv_ECG1/NonInv_ECG1_TRAIN	NonInv_ECG1/NonInv_ECG1_TEST

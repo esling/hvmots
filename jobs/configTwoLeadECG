@@ -1,0 +1,3 @@
+Directory	datasets
+TwoLeadECG	TRAIN	TwoLeadECG/TwoLeadECG_TRAIN	TwoLeadECG/TwoLeadECG_TEST
+TwoLeadECG	TRAIN	TwoLeadECG/TwoLeadECG_TRAIN	TwoLeadECG/TwoLeadECG_TEST

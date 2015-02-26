@@ -1,0 +1,15 @@
+.	50Words	Adiac	ARSim	Beef	CBF	Chlorine	CinECG	Coffee	Cricket_X	Cricket_Y	Cricket_Z	DiatomSize	ECG200	ECGFiveDays	FaceAll	FaceFour	FacesUCR	Fish	Gun_Point	Haptics	InlineSkate	ItalyPower	Lighting2	Lighting7	MALLAT	MedicalImages	MoteStrain	NonInv_ECG1	NonInv_ECG2	OliveOil	OSULeaf	SonyAIBO1	SonyAIBO2	StarLight	SwedishLeaf	Symbols	Synthetic	Trace	Two_Patterns	TwoLeadECG	uWGestureX	uWGestureY	uWGestureZ	Wafer	WordsSynonyms	Yoga
+L1	1	0	33	0	0	0	0	70	0	0	0	1	0	0	0	0	0	0	0	0	0	0	89	0	0	1	0	0	0	8188	0	0	0	1	0	0	1	1	2	0	0	1	0	0	1	0
+L2	0	0	32	0	0	0	0	37	0	0	0	2	0	0	0	0	0	0	0	0	0	0	87	0	0	0	0	0	0	8172	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+LI	0	1	32	2	0	0	0	161	0	0	0	0	0	1	1	0	0	0	0	0	0	2	89	0	0	0	0	1	1	8160	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+LP	1	0	32	0	0	0	0	71	0	0	0	1	0	0	0	0	0	0	0	0	0	0	37	0	0	0	0	0	0	8190	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0
+ERP	2	1	32	1	1	1	0	70	0	0	0	0	0	0	1	2	1	0	0	1	0	0	70	0	0	0	2	1	1	8188	0	0	0	0	0	2	1	0	7	0	1	0	1	0	1	1
+EDR	2	1	32	2	0	1	1	72	1	1	1	5	0	0	0	1	0	1	1	0	1	0	7	0	1	1	0	0	0	8190	1	0	1	1	0	2	0	0	3	0	1	1	0	1	1	1
+LCSS	1	0	2	1	0	1	0	82	0	0	0	0	0	0	1	3	1	0	0	0	0	0	6	1	1	2	2	1	1	8143	0	0	1	2	1	0	2	0	1	0	1	2	1	1	1	1
+DTW	0	0	0	0	0	0	1	30	0	0	0	2	0	0	0	0	0	0	0	0	0	0	130	0	1	0	0	0	0	8122	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0
+OSB	0	0	0	0	0	0	0	39	0	0	0	2	0	0	0	0	0	0	0	0	0	0	87	0	0	0	1	0	0	8172	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+FFT(L2)	0	0	0	0	0	0	1	14	1	1	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8174	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+FFT(DTW)	0	0	0	2	1	0	0	12	1	1	1	0	1	1	0	0	0	0	0	0	0	0	24	1	0	0	0	0	0	8172	1	0	2	0	1	0	0	0	0	1	0	0	0	0	0	0
+ACF(L2)	0	1	0	0	0	0	1	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	60	1	0	0	2	0	0	8132	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0
+ACF(DTW)	0	1	0	2	0	0	1	0	0	0	0	13	0	1	0	0	0	0	0	1	0	0	69	0	0	0	0	0	0	8168	0	1	0	0	1	1	0	2	0	0	0	0	0	0	0	0
+CDM	0	0	0	0	0	0	1	120	1	1	1	2	1	0	0	3	0	1	1	0	1	1	70	0	1	0	2	0	0	8190	0	0	2	0	1	2	0	3	0	0	0	0	0	0	0	0
